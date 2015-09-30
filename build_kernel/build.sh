@@ -9,8 +9,8 @@ echo
 ######################################## SETUP #########################################
 
 # set variables
-FIT=SpaceX_defconfig
-Flash="SpaceX-Kernel-v0.2_N910(SKC)"
+FIT=SpaceX_defconfig_skt
+Flash="SpaceX-Kernel-v0.2_N910S(official)"
 
 SETARCH=arm
 CROSS=/home/spacex/Android_Workspace/Kernel/Toolchain/arm-eabi-4.8/bin/arm-eabi-
